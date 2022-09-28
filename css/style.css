@@ -1,0 +1,33 @@
+/* Index.html */
+
+body{
+    background-image: url(../img/fondo.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 720px;
+    /* center 'X' y center 'Y' */
+    background-position: center center;
+}
+
+header h1{
+    text-align: center;
+    color: brown;
+}
+
+header{
+    padding-top: 15px;
+    padding-bottom: 15px;
+    background: black;
+}
+
+.container{
+margin: 120px;
+}
+
+
+.card-img-top{
+    width: 80px;
+    height:  190px;
+}
+
+

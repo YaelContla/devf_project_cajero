@@ -1,0 +1,28 @@
+/* iniciar_sesion.html */
+
+
+body{
+    background-image: url(../img/sesion_paisaje.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 720px;
+    /* center 'X' y center 'Y' */
+    background-position: center center;
+}
+
+header h1{
+    text-align: center;
+    color: brown;
+}
+
+header{
+    padding-top: 15px;
+    padding-bottom: 15px;
+    background: black;
+}
+
+.container_sesion{
+    background: rgba(245, 242, 237, 0.712);
+    margin: 120px;
+    padding: 70px;
+}
