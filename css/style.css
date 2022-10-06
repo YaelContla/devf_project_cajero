@@ -4,9 +4,9 @@ body{
     background-image: url(../img/fondo.png);
     background-repeat: no-repeat;
     background-size: cover;
-    height: 720px;
+    height: 1000px;
     /* center 'X' y center 'Y' */
-    background-position: center center;
+    /* background-position: center center; */
 }
 
 header h1{
@@ -21,7 +21,7 @@ header{
 }
 
 .container{
-margin: 120px;
+margin: 50px;
 }
 
 

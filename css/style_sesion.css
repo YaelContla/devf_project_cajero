@@ -26,3 +26,8 @@ header{
     margin: 120px;
     padding: 70px;
 }
+
+/* Snipper */
+#spinner {
+    display: none;
+}
